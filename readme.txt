@@ -4,7 +4,7 @@ Spawns a Maze  & related structures at  12109.06 / 12579.03 which is near the Kr
 
 Items inside the Loot Tent will respawn on Server Restarts.
 
-Limited Testing on PC Chernarus Local Server DAYZ Version 1.17 May 2021.
+Limited Testing on PC Chernarus Local Server DAYZ Version 1.17 May 2022.
 
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
