@@ -54,11 +54,11 @@ This file tells your server to access your custom file.
 
 Edit it to look like this: 
 
-	"objectSpawnersArr": ["custom/maze.json"]	
+	"objectSpawnersArr": ["custom/maze.json"],	
 	
 If you already are calling custom jsons to spawn items or buildings, seperate the files like this:
 
-	"objectSpawnersArr": ["custom/maze.json","custom/anotherfile.json","custom/differentfile.json"]
+	"objectSpawnersArr": ["custom/maze.json","custom/anotherfile.json","custom/differentfile.json"],
 	
 Save your changes & upload if you need to.
 
